@@ -49,7 +49,7 @@ with Large Language Models for Recommendation]
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/hitlbm.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[SIGIR 2025][Hierarchical Tree Search-based User Lifelong Behavior Modeling
+[Hierarchical Tree Search-based User Lifelong Behavior Modeling
 on Large Language Model]([https://arxiv.org/pdf/2508.15388](https://arxiv.org/pdf/2505.19505))
 **Yu Xia**,  Rui Zhong, Hao Gu, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
 </div>
@@ -57,7 +57,7 @@ on Large Language Model]([https://arxiv.org/pdf/2508.15388](https://arxiv.org/pd
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 2025</div><img src='images/r4ec.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Recsys 2025][𝑅4ec: A Reasoning, Reflection, and Refinement Framework for
+[𝑅^4ec: A Reasoning, Reflection, and Refinement Framework for
 Recommendation Systems]([https://arxiv.org/pdf/2508.15388)
 Hao Gu,  Rui Zhong, **Yu Xia**, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
 </div>
