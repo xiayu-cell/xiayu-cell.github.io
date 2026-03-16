@@ -47,7 +47,7 @@ with Large Language Models for Recommendation]
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/hitlbm.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='/images/hitlbm.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Hierarchical Tree Search-based User Lifelong Behavior Modeling
 on Large Language Model]([https://arxiv.org/pdf/2508.15388](https://arxiv.org/pdf/2505.19505))
