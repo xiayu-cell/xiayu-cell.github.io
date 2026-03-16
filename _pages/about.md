@@ -23,36 +23,62 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉🎉 One full papers are accepted by DASFAA 2026 on LLM-Enhenced Recommendation. 
+- *2026.01*: &nbsp;🎉🎉 One full papers are accepted by WWW 2026 on LLM-Based Recommendation.
+- *2025.07*: &nbsp;🎉🎉 One full papers are accepted by Recsys 2025 on LLM Reasoning for Recommendation. 
+- *2025.04*: &nbsp;🎉🎉 One full papers are accepted by SIGIR 2025 on Lifelong User Modeling.
+
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2026</div><img src='images/trackrec.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[TrackRec: Iterative Alternating Feedback with
+Chain-of-Thought via Preference Alignment for
+Recommendation](https://arxiv.org/pdf/2508.15388)
+**Yu Xia**, Rui Zhong, Zeyu Song, Wei Yang, Junchen Wan, QingpengCai, Chi Lu, Peng Jiang
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/r2ec.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Reinforcement Learning-Constrained Segmented User Modeling
+with Large Language Models for Recommendation]
+**Yu Xia**, Qing Tan, He Chen, Jingyu Chen, Qian Dong
+</div>
+</div>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/hitlbm.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[SIGIR 2025][Hierarchical Tree Search-based User Lifelong Behavior Modeling
+on Large Language Model]([https://arxiv.org/pdf/2508.15388](https://arxiv.org/pdf/2505.19505))
+**Yu Xia**,  Rui Zhong, Hao Gu, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 2025</div><img src='images/r4ec.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Recsys 2025][𝑅4ec: A Reasoning, Reflection, and Refinement Framework for
+Recommendation Systems]([https://arxiv.org/pdf/2508.15388)
+Hao Gu,  Rui Zhong, **Yu Xia**, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
+</div>
+</div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ***2024.09 – Present***  
+  **M.Sc. in Computer Technology**  
+  *Institute of Software, Chinese Academy of Sciences*  
+  Beijing, China  
+  - Research focus: [Large Language Model, Recommendation]  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- ***2020.09 – 2024.06***  
+  **B.Eng. in Software Engineering**  
+  *School of Computer Science, Central South University*  
+  Changsha, Hunan, China  
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.10 - 2026.06*, [Xiaohongshu], Beijing, China.
+- *2024.10 - 2025.08*, [Kuaishou], Beijing, China.
+- *2024.06 - 2020.09*, [Xiaohongshu], Beijing, China.
