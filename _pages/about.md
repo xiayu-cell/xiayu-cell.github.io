@@ -68,7 +68,7 @@ Hao Gu,  Rui Zhong, **Yu Xia**, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
   **M.Sc. in Computer Technology**  
   *Institute of Software, Chinese Academy of Sciences*  
   Beijing, China  
-  - Research focus: [Large Language Model, Recommendation]  
+  - Research focus: [Large Language Model](), [Recommendation]()  
 
 - ***2020.09 – 2024.06***  
   **B.Eng. in Software Engineering**  
