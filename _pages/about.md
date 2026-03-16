@@ -30,7 +30,7 @@ I am currently a second-year master's student at the Institute of Software, Chin
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2026</div><img src='images/trackrec.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DASFAA 2026</div><img src='images/trackrec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [TrackRec: Iterative Alternating Feedback with
 Chain-of-Thought via Preference Alignment for
@@ -39,15 +39,15 @@ Recommendation](https://arxiv.org/pdf/2508.15388)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/r2ec.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/r2ec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Reinforcement Learning-Constrained Segmented User Modeling
-with Large Language Models for Recommendation]
+with Large Language Models for Recommendation]()
 **Yu Xia**, Qing Tan, He Chen, Jingyu Chen, Qian Dong
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='/images/hitlbm.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='/images/hitlbm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Hierarchical Tree Search-based User Lifelong Behavior Modeling
 on Large Language Model]([https://arxiv.org/pdf/2508.15388](https://arxiv.org/pdf/2505.19505))
@@ -55,7 +55,7 @@ on Large Language Model]([https://arxiv.org/pdf/2508.15388](https://arxiv.org/pd
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 2025</div><img src='images/r4ec.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Recsys 2025</div><img src='images/r4ec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [𝑅^4ec: A Reasoning, Reflection, and Refinement Framework for
 Recommendation Systems]([https://arxiv.org/pdf/2508.15388)
