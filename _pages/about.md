@@ -77,6 +77,6 @@ Hao Gu,  Rui Zhong, **Yu Xia**, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
 
 
 # 💻 Internships
-- *2025.10 - 2026.06*, [Xiaohongshu], Beijing, China.
-- *2024.10 - 2025.08*, [Kuaishou], Beijing, China.
-- *2024.06 - 2020.09*, [Xiaohongshu], Beijing, China.
+- *2025.10 - 2026.06*, [Xiaohongshu](), Beijing, China.
+- *2024.10 - 2025.08*, [Kuaishou](), Beijing, China.
+- *2024.06 - 2020.09*, [Xiaohongshu](), Beijing, China.
