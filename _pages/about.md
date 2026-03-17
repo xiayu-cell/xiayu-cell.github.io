@@ -21,10 +21,10 @@ I am currently a second-year master's student at the Institute of Software, Chin
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One full papers are accepted by DASFAA 2026 on LLM-Enhenced Recommendation. 
-- *2026.01*: &nbsp;🎉🎉 One full papers are accepted by WWW 2026 on LLM-Based Recommendation.
-- *2025.07*: &nbsp;🎉🎉 One full papers are accepted by Recsys 2025 on LLM Reasoning for Recommendation. 
-- *2025.04*: &nbsp;🎉🎉 One full papers are accepted by SIGIR 2025 on Lifelong User Modeling.
+- *2026.01*: &nbsp;🎉🎉 One full paper is accepted by DASFAA 2026 on LLM-Enhenced Recommendation. 
+- *2026.01*: &nbsp;🎉🎉 One full paper is accepted by WWW 2026 on LLM-Based Recommendation.
+- *2025.07*: &nbsp;🎉🎉 One full paper is accepted by Recsys 2025 on LLM Reasoning for Recommendation. 
+- *2025.04*: &nbsp;🎉🎉 One full paper is accepted by SIGIR 2025 on Lifelong User Modeling.
 
 
 
@@ -79,4 +79,4 @@ Hao Gu,  Rui Zhong, **Yu Xia**, Wei Yang, Chi Lu, Peng Jiang, Kun Gai
 # 💻 Internships
 - *2025.10 - 2026.06*, [Xiaohongshu](), Beijing, China.
 - *2024.10 - 2025.08*, [Kuaishou](), Beijing, China.
-- *2024.06 - 2020.09*, [Xiaohongshu](), Beijing, China.
+- *2024.06 - 2024.09*, [Xiaohongshu](), Beijing, China.
